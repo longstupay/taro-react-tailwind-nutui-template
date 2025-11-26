@@ -3,7 +3,7 @@
 
 # taro-react-tailwind-vscode-template
 
-项目基础架构，包含 taro 框架、react 框架、tailwindcss 框架、nutui 组件库。
+在 taro 里使用 tailwindcss + nutui的模板项目
 
 ## 使用方式
 
