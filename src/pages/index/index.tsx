@@ -43,7 +43,7 @@ const Index = () => {
         ></View>
         {/* <View className='test'></View> */}
         <Button type="success">主要按钮</Button>
-        <Button type="info" style={marginStyle}>
+        <Button type="info" shape="round"  style={marginStyle}>
           Primary
         </Button>
         <View className="text-red-500">红色文字</View>
