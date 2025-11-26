@@ -3,7 +3,7 @@
 
 # taro-react-tailwind-vscode-template
 
-在 taro 里使用 tailwindcss 的模板项目
+在 taro 里使用 tailwindcss + nutui的模板项目
 
 ## 使用方式
 
